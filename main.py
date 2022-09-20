@@ -10,3 +10,5 @@ for i in range (1,multiplos+1) :
   m = i * multiplicar
 
   print(multiplicar,"*",i,"=", m)  
+
+#lalalala 
